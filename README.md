@@ -11,7 +11,7 @@ ${\textsf{\color{#A5B68D}CoS, UUSMP, pathologic,}}$
   ![](https://komarev.com/ghpvc/?username=dankovvsky&color=B17F59&&label=healers)
 
 
-wip link .
+[strawpage](https://vit811.straw.page/)
 
 
 </div>
