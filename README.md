@@ -8,7 +8,7 @@
 ${\textsf{\color{#E1E0E0}CoS, ULTRAKILL, pathologic,}}$    
                            ${\textsf{\color{#F0F0EF}8:11, GnB, and others. . .}}$
 
-  ![](https://komarev.com/ghpvc/?username=dankovvsky&color=777572&&label=healers)
+  ![](https://komarev.com/ghpvc/?username=dankovvsky&color=777572&&label=followers)
 
 
 [strawpage](https://vit811.straw.page/)
