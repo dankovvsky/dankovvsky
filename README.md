@@ -1,14 +1,14 @@
 <div align="center">
 
-<img align="left" src="https://github.com/thebasillica/thebasillica/blob/7dafa3de35a927c1d33651e12ebd2aa7e482e304/Untitled1619_20260826151247.png" width="280">
+<img align="left" src="https://github.com/dankovvsky/dankovvsky/blob/8a5ff14b72d75b1340316c2af48e35ccbcb1c327/Untitled1619_20261118070705.png" width="280">
 
 <div align="left">
 
-  ${\textsf{\color{#B17F59}leon}}$   ${\textsf{\color{#D3DAD9}or}}$   ${\textsf{\color{#B17F59}matt}}$⠀    ${\textsf{\color{#D3DAD9}he}}$ ${\textsf{\color{#B17F59}/}}$ ${\textsf{\color{#D3DAD9}she}}$⠀      
-${\textsf{\color{#A5B68D}CoS, UUSMP, pathologic,}}$    
-                           ${\textsf{\color{#C1CFA1}8:11, GnB, and others. . .}}$
+  ${\textsf{\color{#777572}leon}}$   ${\textsf{\color{#959491}or}}$   ${\textsf{\color{#D2D1D0}matt}}$⠀    ${\textsf{\color{#777572}he}}$ ${\textsf{\color{#959491}/}}$ ${\textsf{\color{#D2D1D0}she}}$⠀      
+${\textsf{\color{#E1E0E0}CoS, ULTRAKILL, pathologic,}}$    
+                           ${\textsf{\color{#F0F0EF}8:11, GnB, and others. . .}}$
 
-  ![](https://komarev.com/ghpvc/?username=dankovvsky&color=B17F59&&label=healers)
+  ![](https://komarev.com/ghpvc/?username=dankovvsky&color=777572&&label=healers)
 
 
 [strawpage](https://vit811.straw.page/)
